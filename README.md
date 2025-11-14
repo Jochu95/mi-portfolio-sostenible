@@ -12,7 +12,7 @@
 - HTML
 - Python
 - Git y GitHub
-(modifica según tu interés)
+- Java
 
 ## Primeros comandos aprendidos
 
