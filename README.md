@@ -1,6 +1,6 @@
 # Mi portfolio sostenible 
 ## Sobre mí
-(Breve presentación personal y profesional)
+(Me llamo Jorge Luis Oña y actualmente estoy cursando el ciclo superoir 1DAM.)
 
 ## Mis objetivos este curso
 (Qué te gustaría aprender o mejorar en el módulo Projecte Intermodular y en 1º DAM)
