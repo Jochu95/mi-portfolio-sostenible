@@ -3,7 +3,7 @@
 (Me llamo Jorge Luis Oña y actualmente estoy cursando el ciclo superior 1DAM.)
 
 ## Mis objetivos este curso
-(Qué te gustaría aprender o mejorar en el módulo Projecte Intermodular y en 1º DAM)
+(Qué te gustaría aprender a programar y conocer nuevos lenguajes informaticos)
 
 ## Mi compromiso con la sostenibilidad digital
 (Un programador puede contribuir a un mundo más sostenible creando software eficiente que consuma menos energía, eligiendo infraestructuras digitales más verdes, automatizando procesos que reduzcan desperdicios y desarrollando herramientas tecnológicas que impulsen decisiones responsables y un uso más consciente de los recursos.)
